@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>shijian.su</groupId>
 	<version>1.0.0</version>
-	<artifactId>ntu-googlemap-restaurant-locator</artifactId>
+	<artifactId>ntu-googlemap-restaurant</artifactId>
 	<packaging>war</packaging>
 	<!-- properties -->
 	<properties>
