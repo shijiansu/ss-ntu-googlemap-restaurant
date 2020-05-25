@@ -10,6 +10,8 @@
 ![](https://img.shields.io/github/repo-size/shijiansu/ntu-googlemap-restaurant)
 ![](https://img.shields.io/github/last-commit/shijiansu/ntu-googlemap-restaurant?color=red)
 
+![](https://github.com/shijiansu/ntu-googlemap-restaurant/workflows/ci%20build/badge.svg)
+
 --------------------------------------------------------------------------------
 
 # How to execute application
