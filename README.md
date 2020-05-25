@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/language-java-blue)
-![](https://img.shields.io/badge/technology-google%20map,%20jsp,%20jetty%20maven%20plugin-blue)
+![](https://img.shields.io/badge/technology-google%20map,%20jsp,%20maven%20jetty-blue)
 ![](https://img.shields.io/badge/development%20year-2014-orange)
 ![](https://img.shields.io/badge/contributor-shijian%20su-purple)
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
